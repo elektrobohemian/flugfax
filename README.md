@@ -4,6 +4,7 @@
 ![Flugfax](./flugfax.gif)
 ![Flugfax large](./flugfax128.gif)
 ![Flugfax huge](./flugfax256.gif)
+![Flugfax twitter](./flugfax512.gif)
 
 ## License
 
